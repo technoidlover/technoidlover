@@ -24,11 +24,11 @@ Welcome to my GitHub profile! I'm a **Backend Developer** fulltime, a **tech tea
 
 Here are some of the projects I've been working on:
 
-### Library Management
-BTEC-FPT college library management system
-- **Repository:** [Library Management](https://github.com/technoidlover/lib-management)
-- **Code Language and database**: .Net Framework 4.3 and SQL Server
-- **Description:** This is a project I did for a group of students at BTEC-FPT college to manage the college library.
+### ASL Recognition
+ASL (American sign language) Recognition using TensorFlow and Keras
+- **Repository:** [ASL Recognition](https://github.com/technoidlover/ASL-Recognition)
+- **Code Language and technology**: - Python 3.12 - OpenCV - Keras - TensorFlow - NumPy - Scikit-learn - Pillow
+- **Description:** This project explores the application of computer vision and deep learning to develop an ASL recognition system. We will experiment with various architectures, including CNNs and RNNs, to achieve optimal performance on a challenging dataset of sign language videos.
 
 ### URL Shortener
 A simple yet efficient URL shortening service.
