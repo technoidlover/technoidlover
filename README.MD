@@ -46,10 +46,6 @@ A guide to installing macOS on Dynobook laptops.
 ![technoidlover's GitHub stats](https://github-readme-stats.vercel.app/api?username=technoidlover&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technoidlover&layout=compact&theme=radical)
 
-### 📈 Contribution Graph
-
-![technoidlover's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=technoidlover&theme=react-dark&bg_color=20232a&hide_border=true)
-
 ## ✍️ Blog Posts
 
 I also love sharing my knowledge through writing, everything will update on my [Facebook ](https://www.facebook.com/profile.php?id=61565339104323) and my [Linkedin ](https://www.linkedin.com/in/technoidlover/)
